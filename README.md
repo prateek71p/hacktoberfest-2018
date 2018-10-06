@@ -587,6 +587,13 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Open Source Contributor
 - Front End Developer
   [![github-alt][github-img]](https://github.com/pranav0408)
+  
+### Prateek Kharb
+- Open Source Contributor
+- Hobbies:
+  - Reading
+  - Gaming
+  [![github-alt][github-img]](https://github.com/prateek71p)
 
 ### Pritish Thakkar
 - I'm an undergraduate from Punjab engineering college
